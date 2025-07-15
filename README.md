@@ -13,15 +13,6 @@ This project provides a simple, responsive **Login and Register page** built wit
 
 ---
 
-## 📸 View (Preview Screenshot)
-
-> 📍 *You can replace this with a live link or a screenshot image later.*
-
-![Login Preview](screenshots/login.png)
-![Register Preview](screenshots/register.png)
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
